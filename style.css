@@ -1,0 +1,47 @@
+body {
+   background-color: hsl(0, 0%, 8%);
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+   margin-top: 70px;
+   font-family: Helvetica;
+}
+
+.container1 {
+   background-color: hsl(0, 0%, 12%);
+   width: 280px;
+   border-radius: 10px;
+}
+
+img {
+   width: 70px;
+   border-radius: 50px;
+   margin-top: 15px;
+}
+
+.name {
+   color: hsl(0, 0%, 100%);
+   font-size: 25px;
+   margin-bottom: 0px;
+   margin-top: 10px;
+}
+
+.location {
+   color: hsl(75, 94%, 57%);
+   margin-top: 0px;
+   font-size: 14px;
+}
+
+.description {
+   color: gray;
+   font-size: 11px;
+}
+
+.reference {
+   background-color: hsl(0, 0%, 20%);
+   margin: 17px 25px;
+   padding: 9px;
+   color:hsl(0, 0%, 100%);
+   border-radius: 4px;
+}
